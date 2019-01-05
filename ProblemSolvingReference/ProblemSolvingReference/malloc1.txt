@@ -1,0 +1,8 @@
+1
+10
+5
+0 1 abcd 1
+0 2 abcd 2
+0 2 deds 1
+0 3 dewq 3
+0 4 qqwe 5
