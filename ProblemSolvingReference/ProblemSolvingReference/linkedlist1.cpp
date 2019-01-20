@@ -91,8 +91,7 @@ list_t *del_item(int data)
 
 	for (tmp = phead->next; tmp != phead; tmp = tmp->next)
 	{
-		if (tmp->data == data)
-		{				
+		if (tmp->data == data) {
 			break;
 		}
 	}
